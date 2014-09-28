@@ -1,5 +1,6 @@
 AndroidStaggeredGrid
 =====================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ajavafans/AndroidStaggeredGrid?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 An Android staggered grid view which supports multiple columns with rows of varying sizes.
 
